@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fridox97
 - 👀 I’m interested in front-end and back-end, I also like python, but haven't look into it yet.
-- 🌱 I’m currently learning front-end with javascript, html and css, also would like to learn react.
+- 🌱 I’m currently learning front-end with javascript(react), html and css.
 - 💞️ I’m looking to collaborate on any begginer friendly project to build up experience and confidence.
 - 📫 You can contact me via this email: jeijeidiaz@gmail.com
 
